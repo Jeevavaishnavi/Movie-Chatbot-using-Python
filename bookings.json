@@ -1,0 +1,81 @@
+{
+    "bookings": [
+        {
+            "booking_id": "BK50247",
+            "username": "guest",
+            "movie": "The Last Adventure",
+            "date": "this saturday",
+            "time": "16:00",
+            "tickets": 3,
+            "theater": "City Center Cinemas",
+            "seat_type": "Standard",
+            "total_price": 40.5,
+            "booking_date": "2026-02-04 13:09:29"
+        },
+        {
+            "booking_id": "BK59655",
+            "username": "guest",
+            "movie": "Laugh Out Loud",
+            "date": "2026-02-06",
+            "time": "1:30 PM",
+            "tickets": 1,
+            "theater": "City Center Cinemas",
+            "seat_type": "Standard",
+            "total_price": 13.5,
+            "booking_date": "2026-02-04 14:08:40",
+            "status": "confirmed"
+        },
+        {
+            "booking_id": "BK84926",
+            "username": "guest",
+            "movie": "Mystery at Midnight",
+            "date": "2026-02-06",
+            "time": "6:30 PM",
+            "tickets": 4,
+            "theater": "City Center Cinemas",
+            "seat_type": "Standard",
+            "total_price": 54.0,
+            "booking_date": "2026-02-04 14:19:59",
+            "status": "confirmed"
+        },
+        {
+            "booking_id": "BK37737",
+            "username": "guest",
+            "movie": "Cosmic Dreams",
+            "date": "2026-02-07",
+            "time": "1:30 PM",
+            "tickets": 5,
+            "theater": "City Center Cinemas",
+            "seat_type": "Standard",
+            "total_price": 67.5,
+            "booking_date": "2026-02-05 22:50:08",
+            "status": "confirmed"
+        },
+        {
+            "booking_id": "BK10536",
+            "username": "guest",
+            "movie": "Cosmic Dreams",
+            "date": "2026-02-08",
+            "time": "4:00 PM",
+            "tickets": 1,
+            "theater": "City Center Cinemas",
+            "seat_type": "Standard",
+            "total_price": 13.5,
+            "booking_date": "2026-02-06 10:58:08",
+            "status": "confirmed"
+        },
+        {
+            "booking_id": "BK10816",
+            "username": "guest",
+            "movie": "Mystery at Midnight",
+            "date": "2026-02-12",
+            "time": "4:00 PM",
+            "tickets": 4,
+            "theater": "City Center Cinemas",
+            "seat_type": "Standard",
+            "total_price": 54.0,
+            "booking_date": "2026-02-06 12:13:30",
+            "status": "confirmed"
+        }
+    ]
+}
